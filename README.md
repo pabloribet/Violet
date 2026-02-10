@@ -60,7 +60,7 @@ For new versions:
 
 ## Debian / Ubuntu:
 
-wget https://github.com/pabloribet/violet/releases/download/vX.Y.Z/Violet-deb.deb
+wget https://github.com/pabloribet/violet/releases/download/v0.1.0/Violet-deb.deb
 sudo apt install ./Violet-deb.deb
 
 
