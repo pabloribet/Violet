@@ -29,8 +29,8 @@ sudo pacman -S python python-rich
 
 ## Install via PKGBUILD:
 
-git clone https://github.com/pabloribet/violet
-cd violet/violet-pkg
+git clone https://github.com/pabloribet/Violet
+cd Violet/violet-pkg
 makepkg -si
 
 
