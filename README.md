@@ -46,11 +46,21 @@ sudo dpkg -i Violet-deb.deb
 
 ## Usage
 
-Arrow keys ↑ ↓ or j / k → Navigate between files and folders
+Arrow keys ↑ ↓ to navigate
 
-Enter → Open folder or file
+d > to delete files
 
-q → Exit Violet
+m > to move
+
+c > to copy
+
+p > to paste
+
+r > Rename files and folders
+
+Enter > Open folder or file
+
+q > Exit Violet
 
 ## The default starting folder is always the user's HOME directory.
 
